@@ -1,0 +1,7 @@
+name=input("Enter Your Name : ")
+sid=input("Enter Your SID : ")
+dn=input("Enter Your Department Name : ")
+cg=float(input("Enter Your CGPA : "))
+print("Hey,", name, "Here!")
+print("My SID is", sid)
+print("I am from", dn, "deppartment and my CGPA is", cg) 
